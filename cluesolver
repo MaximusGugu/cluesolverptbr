@@ -1,14 +1,14 @@
 [
 
-{"type":"simple","clue":"Search the drawers of Hild and Penda's house in Burthorpe.","x":889,"y":-677,"//comment":"manually added after bruthorpe rework, probably reples search drawers in burthorp."},
+{"type":"simple","clue":"Vasculhe as gavetas da casa de Hilda e Penda em Burthorpe.","x":889,"y":-677,"//comment":"manually added after bruthorpe rework, probably reples search drawers in burthorp."},
 
 {"type":"simple","clue":"Search the crates in the shed just north of east Ardougne.","x":333,"y":-348,"//comment": "Probly removed with pof"},
 
-{"type":"simple","clue":"Search the drawers in the upstairs of a house in Catherby.","x":690,"y":-548,"//comment": "I'm not sure if this section still exists in-game since the clue rework. I have not seen any of them in the logs for ~40hr after the release of the update while others all had 10-500 hits, they are still here just in case"},
-{"type":"simple","clue":"Search the drawers upstairs of houses in eastern part of Falador.","answer":"The drawers are found on the top floor of this building.","x":1140,"y":-361},
-{"type":"simple","clue":"What is 57x89+23?","answer":"Speak to the gnome ball referee, the answer to his math question is 5096.","x":-102,"y":-616},
-{"type":"simple","clue":"Speak to Hans.","answer":"Hans walks in cicles around the castle.","x":1465,"y":-108},
-{"type":"emote","clue":"Beckon in the Digsite, near the eastern winch. Bow or curtsy before you talk to me. Equip a pointed red and black snelm, snakeskin boots, and an iron pickaxe.","answer":"<b>Emote:</b> Beckon, then bow or curtsy<br><b>Items:</b> Pointed red and black snelm, Snakeskin boots, Iron pickaxe","x":1758,"y":-532},
+{"type":"simple","clue":"Vasculhe as gavetas em uma casa em Catherby.","x":690,"y":-548,"//comment": "I'm not sure if this section still exists in-game since the clue rework. I have not seen any of them in the logs for ~40hr after the release of the update while others all had 10-500 hits, they are still here just in case"},
+{"type":"simple","clue":"Vasculhe as gavetas no andar de cima na Loja de escudos de Faladore.","answer":"Aas gavetas são encontradas no andar de cima desta casa.","x":1140,"y":-361},
+{"type":"simple","clue":"Quanto é 57 x 89 + 23?","answer":"Fale com o Árbritro de gnomobol, a resposta é 5096.","x":-102,"y":-616},
+{"type":"simple","clue":"Fale com Hans para solucionar a pista.","answer":"Hans anda em volta do Castelo de Lumbridge.","x":1465,"y":-108},
+{"type":"emote","clue":"Chamar no Sítio de Escavação, perto do guincho oriental. Cumprimentar ou fazer reverência antes de falar comigo. Equipar um caraquelmo sangue e piche (pontudo), botas de couro de cobra e uma picareta de ferro.","answer":"<b>Ação:</b> Chamar, então cumprimentar ou reverência<br><b>Objetos:</b> Caraquelmo sangue e piche (pontudo), Botas de couro de cobra, Picareta de ferro","x":1758,"y":-532},
 {"type":"emote","clue":"Dance in the shack in Lumbridge Swamp. Equip a bronze dagger, iron full helm and a gold ring.","answer":"<b>Emote:</b> Dance<br><b>Items:</b> Bronze dagger, Iron full helm, Gold ring","x":1432,"y":-13},
 {"type":"emote","clue":"Shrug in the Zamorak temple found in the Eastern Wilderness. Beware of double agents! Equip bronze platelegs, an iron platebody, and blue d'hide vambraces","answer":"<b>Emote:</b> Shrug<br><b>Items:</b> Bronze platelegs, Iron platebody, Blue d'hide vambraces","x":1500,"y":-840},
 {"type":"emote","clue":"Yawn in the rogues' general store. Beware of double agents! Equip an iron square shield, blue dragonhide vambraces, and an iron pickaxe.","answer":"<b>Emote:</b> Yawn<br><b>Items:</b> Iron square shield, Blue dragonhide vambraces, Iron pickaxe","x":1097,"y":-1015},
@@ -81,7 +81,7 @@
 {"type":"simple","clue":"Search the drawers in Ivy's house in Taverley.","x":892,"y":-539},
 {"type":"simple","clue":"Search the crates in Canifis.","x":2001,"y":-631},
 {"type":"simple","clue":"Search for a crate on the ground floor of a house in Seers' Village.","x":488,"y":-582},
-{"type":"simple","clue":"Search through chests found in the upstairs of houses in eastern Falador.","answer":"The chests are upstairs.","x":1115,"y":-380},
+{"type":"simple","clue":"Vasculhe pelas arcas encontradas nos andares de cima de casas em Faladore do leste.","answer":"The chests are upstairs.","x":1115,"y":-380},
 {"type":"simple","clue":"Search the drawers of houses in Burthorpe.","x":917,"y":-766},
 {"type":"simple","clue":"Search the chests in the Dwarven Mine.","answer":"The chests are located south of the anvils, by the ranging shop.","x":1085,"y":-542},
 {"type":"simple","clue":"Search the drawers in a house in Draynor Village.","x":1233,"y":-218},
