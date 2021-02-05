@@ -183,7 +183,7 @@
 {"type":"cryptic","clue":"Surpreendente? Aposto que ele é...","answer":"Fale com Sir Prysin.","x":1430,"y":-583,"//TODO doesn't read 'suprising'": true},
 {"type":"cryptic","clue":"Aposto que ele é...	","answer":"Fale com Sir Prysin.","x":1430,"y":-583,"//TODO remove this one 'suprising'": true},
 {"type":"cryptic","clue":"Quatro lâminas eu tenho e mesmo assim não tiro sangue; Ainda assim transformo minha presa em pó. Se você for valente, venha dar uma busca em meu teto; É lá que minhas lâminas são barulhentas, mas venha só.","answer":"Vasculhe as caixas no último andar.","x":1362,"y":-273},
-{"type":"cryptic","clue":"Meu nome é como uma árvore, ainda assim é escrito com "a". Venha ver a pele que está bem perto de mim.","answer":"Fale com Magno","x":1459,"y":-511},
+{"type":"cryptic","clue":"Meu nome é como uma árvore, ainda assim é escrito com 'a'. Venha ver a pele que está bem perto de mim.","answer":"Fale com Magno","x":1459,"y":-511},
 {"type":"cryptic","clue":"Um homenzinho estranho que vende armaduras somente para aqueles que provaram não ter medo de dragões.","answer":"Fale com Oziach.","x":1177,"y":-666},
 {"type":"cryptic","clue":"Venha à borda maligna, Você sabe que você quer. Tente não ser picado.","answer":"Cave perto do teixo.","x":1214,"y":-577,"//TODO doesn't read top line, has color?": true},
 {"type":"cryptic","clue":"Venha à borda maligna Tente não ser picado.","cluetext":"Venha à borda maligna, Você sabe que você quer. Tente não ser picado.","answer":"Corte perto do teixo.","x":1214,"y":-577},
