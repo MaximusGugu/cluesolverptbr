@@ -380,7 +380,7 @@
 {"type":"scan","clue":"Este pergaminho vai funcionar na Masmorra de Brimhaven. Raio de Alcance do Orbe: 14 passos.","scantext":"Masmorra de Brimhaven","scan":12},
 {"type":"scan","clue":"Este pergaminho vai funcionar na Masmorra de Taverley. Raio de Alcance do Orbe: 22 passos.","scantext":"Masmorra de Taverley","scan":18},
 {"type":"scan","clue":"Este pergaminho vai funcionar nas ilhas distantes de Mos'Ino Fensivo. Raio de Alcance do Orbe: 27 passos.","scantext":"Mos'Ino Fensivo","scan":9},
-{"type":"scan","clue":"Este pergaminho vai funcionar dentro do Bosque Assombrado. Raio de Alcance do Orbe: 11 passos.","scantext":"do Bosque Assombrado","scan":6},
+{"type":"scan","clue":"Este pergaminho vai funcionar no Bosque Assombrado. Raio de Alcance do Orbe: 11 passos.","scantext":"Bosque Assombrado","scan":6},
 {"type":"scan","clue":"Este pergaminho vai funcionar na Selva Kharazi. Raio de Alcance do Orbe: 14 passos.","scantext":"na Selva Kharazi","scan":7},
 {"type":"scan","clue":"Este pergaminho vai funcionar na cidade de Zanaris. Raio de Alcance do Orbe: 16 passos.","scantext":"Zanaris","scan":20},
 {"type":"scan","clue":"Este pergaminho vai funcionar nas cavernas abaixo do Pântano de Lumbridge. Raio de Alcance do Orbe: 11 passos.","scantext":"Pântano de Lumbridge","scan":17},
