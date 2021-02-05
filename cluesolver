@@ -390,7 +390,7 @@
 {"type":"scan","clue":"Este pergaminho vai funcionar nas Masmorras de Extermínio de Fremennik. Raio de Alcance do Orbe: 16 passos.","scantext":"Masmorra de Extermínio de Fremennik","scan":15},
 {"type":"scan","clue":"Este pergaminho vai funcionar na cratera do vulcão das Terras Selvagens. Raio de Alcance do Orbe: 11 passos.","scantext":"A Cratera do vulcão das Terras Selvagens","scan":21},
 {"type":"scan","clue":"Este pergaminho vai funcionar na cidade dos elfos Prifddinas. Raio de Alcance do Orbe: 30 passos.","scantext":"Prifddinas","scan":24},
-{"type":"scan","clue":"Este pergaminho vai funcionar in na cidade dos vampiros Darkmeyer. Raio de Alcance do Orbe: 16 passos.","scantext":"Darkmeyer","scan":25},
+{"type":"scan","clue":"Este pergaminho vai funcionar in na cidade vampira de Darkmeyer. Raio de Alcance do Orbe: 16 passos.","scantext":"Darkmeyer","scan":25},
 {"type":"scan","clue":"Este pergaminho vai funcionar nas Ilhas que Eram Tartarugas. Raio de Alcance do Orbe: 27 passos.","scantext":"Ilhas que Eram Tartarugas","scan":26},
 {"type":"scan","clue":"Este pergaminho vai funcionar no Coração de Guilenor. Raio de Alcance do Orbe: 49 passos.","scantext":"Coração de Guilenor","scan":27},
 
