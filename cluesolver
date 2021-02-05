@@ -370,7 +370,7 @@
 
 
 
-{"type":"scan","clue":"Este pergaminho vai funcionar no deserto, leste do Elid e norte de Nardah. Raio de Alcance do Orbe: 27 passos.","scantext":"no deserto, leste do Elid e norte de Nardah","scan":8},
+{"type":"scan","clue":"Este pergaminho vai funcionar no deserto, a leste do Elid e ao Norte de Nardah. Raio de Alcance do Orbe: 27 passos.","scantext":"O deserto, a leste do Elid e ao Norte de Nardah","scan":8},
 {"type":"scan","clue":"Este pergaminho vai funcionar em Isafdar e Lletya. Raio de Alcance do Orbe: 22 passos.","scantext":"Isafdar e Lletya","scan":11},
 {"type":"scan","clue":"Este pergaminho vai funcionar dentro dos muros de Varrock e do Mercado Geral. Raio de Alcance do Orbe: 16 passos.","scantext":"Varrock and the Grand Exchange","scan":3},
 {"type":"scan","clue":"Este pergaminho vai funcionar within the walls of East or West Ardougne. Raio de Alcance do Orbe: 22 passos.","scantext":"East or West Ardougne","scan":4},
