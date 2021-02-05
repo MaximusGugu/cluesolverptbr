@@ -373,7 +373,7 @@
 {"type":"scan","clue":"Este pergaminho vai funcionar no deserto, a leste do Elid e ao Norte de Nardah. Raio de Alcance do Orbe: 27 passos.","scantext":"O deserto, a leste do Elid e ao Norte de Nardah","scan":8},
 {"type":"scan","clue":"Este pergaminho vai funcionar em Isafdar e Lletya. Raio de Alcance do Orbe: 22 passos.","scantext":"Isafdar e Lletya","scan":11},
 {"type":"scan","clue":"Este pergaminho vai funcionar dentro das muralhas de Varrock e do Mercado Geral. Raio de Alcance do Orbe: 16 passos.","scantext":"Varrock e o Mercado Geral","scan":3},
-{"type":"scan","clue":"Este pergaminho vai funcionar dentro das muralhas de Adonha Ocidental e Oriental. Raio de Alcance do Orbe: 22 passos.","scantext":"Adonha Ocidental e Oriental","scan":4},
+{"type":"scan","clue":"Este pergaminho vai funcionar dentro das muralhas de Ardonha Ocidental ou Oriental. Raio de Alcance do Orbe: 22 passos.","scantext":"Adonha Ocidental ou Oriental","scan":4},
 {"type":"scan","clue":"Este pergaminho vai funcionar dentro da cidade dos anões de Keldagrim. Raio de Alcance do Orbe: 11 passos.","scantext":"Keldagrim","scan":16},
 {"type":"scan","clue":"Este pergaminho vai funcionar em Menaphos. Raio de Alcance do Orbe: 30 passos.","scantext":"Menaphos","scan":23},
 {"type":"scan","clue":"Este pergaminho vai funcionar na Área de Caça de Piscatoris. Raio de Alcance do Orbe: 14 passos.","scantext":"Área de Caça de Piscatoris","scan":10},
