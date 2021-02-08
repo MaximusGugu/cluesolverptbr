@@ -4,7 +4,6 @@
 
 {"type":"simple","clue":"Vasculhe as caixas in the shed just north of east Ardougne.","x":333,"y":-348,"//comment": "Probly removed with pof"},
 
-{"type":"simple","clue":"Vasculhe as gavetas em uma casa em Catherby.","x":690,"y":-548,"//comment": "I'm not sure if this section still exists in-game since the clue rework. I have not seen any of them in the logs for ~40hr after the release of the update while others all had 10-500 hits, they are still here just in case"},
 {"type":"simple","clue":"Vasculhe as gavetas no andar de cima na Loja de escudos de Faladore.","answer":"Aas gavetas são encontradas no andar de cima desta casa.","x":1140,"y":-361},
 {"type":"simple","clue":"Quanto é 57 x 89 + 23?","answer":"Fale com o Árbritro de gnomobol, a resposta é 5096.","x":-102,"y":-616},
 {"type":"simple","clue":"Fale com Hans para solucionar a pista.","answer":"Hans anda em volta do Castelo de Lumbridge.","x":1465,"y":-108},
