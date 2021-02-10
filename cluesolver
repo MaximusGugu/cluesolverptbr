@@ -3,8 +3,9 @@
 {"type":"simple","clue":"Vasculhe as gavetas da casa de Hilda e Penda em Burthorpe.","x":889,"y":-677,"//comment":"manually added after bruthorpe rework, probably reples search drawers in burthorp."},
 
 {"type":"simple","clue":"Vasculhe as caixas in the shed just north of east Ardougne.","x":333,"y":-348,"//comment": "Probly removed with pof"},
+{"type":"simple","clue":"Vasculhe as gavetas encontradas no andar de cima da taverna mais ocidental de Ardonha Oriental.","answer":"A taverna fica logo acima do castelo.","x":253,"y":-305},
 
-{"type":"simple","clue":"Vasculhe as gavetas no andar de cima na Loja de escudos de Faladore.","answer":"Aas gavetas são encontradas no andar de cima desta casa.","x":1140,"y":-361},
+{"type":"simple","clue":"Vasculhe pelas arcas encontradas nos andares de cima de casas em Faladore do Leste.","answer":"As gavetas são encontradas no andar de cima desta casa.","x":1140,"y":-361},
 {"type":"simple","clue":"Quanto é 57 x 89 + 23?","answer":"Fale com o Árbritro de gnomobol, a resposta é 5096.","x":-102,"y":-616},
 {"type":"simple","clue":"Fale com Hans para solucionar a pista.","answer":"Hans anda em volta do Castelo de Lumbridge.","x":1465,"y":-108},
 {"type":"emote","clue":"Chamar no Sítio de Escavação, perto do guincho oriental. Cumprimentar ou fazer reverência antes de falar comigo. Equipar um caraquelmo sangue e piche (pontudo), botas de couro de cobra e uma picareta de ferro.","answer":"<b>Ação:</b> Chamar, então cumprimentar ou reverência<br><b>Objetos:</b> Caraquelmo sangue e piche (pontudo), Botas de couro de cobra, Picareta de ferro","x":1758,"y":-532},
@@ -123,7 +124,7 @@
 {"type":"simple","clue":"Vasculhe as caixas no armazém geral de Ardonha Oriental.","x":329,"y":-246},
 {"type":"simple","clue":"Fale com Ellis em Al Kharid.","x":1565,"y":-64},
 {"type":"simple","clue":"Vasculhe a arca na torre à esquerda do castelo de Camelot.","x":580,"y":-626},
-{"type":"simple","clue":"Vasculhe a arca no quarto do Duque de Lumbridge.","answer":"O quarto do Duqye é localizado 1 andar acima da cozinha.","x":1441,"y":-110},
+{"type":"simple","clue":"Vasculhe a arca no quarto do Duque de Lumbridge.","answer":"O quarto do Duque é localizado 1 andar acima da cozinha.","x":1441,"y":-110},
 {"type":"simple","clue":"Vasculhe os engradados no Mercado de Lumbridge.","x":1410,"y":-182},
 {"type":"simple","clue":"Fale com Kangai Mau.","x":661,"y":-41},
 {"type":"simple","clue":"Fale com Doric, que mora ao norte de Faladore.","x":972,"y":-526},
@@ -290,7 +291,7 @@
 {"type":"emote","clue":"Rodopiar no Solar de Draynor perto da fonte. Equipar uma cota de placa de ferro, perneiras guarnecidas e um elmo de bronze completo.","answer":"<b>Ação:</b> Rodopiar<br><b>Objetos:</b> Cota de placa de ferro, Perneiras guarnecidas e Elmo de bronze completo","x":1220,"y":-330},
 {"type":"emote","clue":"Pular de alegria nas colmeias. Equipar botas reforçadas de ferro, um símbolo profano e um machado de aço.","answer":"<b>Ação:</b> Jump for joy<br><b>Objetos:</b> Botas reforçadas de ferro, Símbolo profano e Machado de aço","x":597,"y":-530},
 {"type":"emote","clue":"Bater cabeça na mina ao norte de Al-Kharid. Equipar uma túnica de camuflagem polar, luvas de couro e botas de couro.","answer":"<b>Ação:</b> Bater Cabeça<br><b>Objetos:</b> Túnica de camuflagem polar, Luvas de couro e Botas de couro.","x":1609,"y":-255},
-{"type":"emote","clue":"Cumprimentar ou reverenciar fora da entrada da Guilda das Lendas. Equipar perneiras de placa de ferro, um amuleto de esmeralda e um arco-escudo de carvalho.","answer":"<b>Ação:</b> bow or curtsy<br><b>Objetos:</b> Perneiras de placa de ferro, Amuleto de esmeralda e Arco-escudo de carvalho","x":542,"y":-352},
+{"type":"emote","clue":"Cumprimentar ou reverenciar fora da entrada da Guilda das Lendas. Equipar perneiras de placa de ferro, um amuleto de esmeralda e um arco-escudo de carvalho.","answer":"<b>Ação:</b> Cumprimentar ou Reverenciar<br><b>Objetos:</b> Perneiras de placa de ferro, Amuleto de esmeralda e Arco-escudo de carvalho","x":542,"y":-352},
 {"type":"emote","clue":"Animar no centro da Sala de Jogos de Burthorpe. Não tendo nada equipado quando o fizer.","answer":"<b>Ação:</b> Animar<br><b>Objetos:</b> Nada equipado","x":850,"y":-765},
 {"type":"emote","clue":"Dançar no cruzamento ao norte de Draynor. Equipar uma cota de malha de ferro, um anel de safira e um arco-escudo.","answer":"<b>Ação:</b> Dançar<br><b>Objetos:</b> Cota de malha de ferro, Anel de safira e Arco-escudo","x":1254,"y":-249},
 {"type":"emote","clue":"Saltitar na entrada da Guilda dos Pescadores. Equipar um anel de esmeralda, um amuleto de safira e uma cota de malha de bronze.","answer":"<b>Ação:</b> Saltitar<br><b>Objetos:</b> Anel de esmeralda, Amuleto de safira e Cota de malha de bronze","x":326,"y":-420},
