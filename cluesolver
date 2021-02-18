@@ -155,7 +155,7 @@
 {"type":"cryptic","clue":"Uma grande vista - observe as peles secando rapidamente sendo respingadas. Verifique a caixa onde você está sentado.","answer":"Vasculhe as caixas no andar de cima.","x":152,"y":-628},
 {"type":"cryptic","clue":"Você vai precisar lavar a cinza velha de sua pá quando cavar aqui, mas a única água nas proximidades está estagnada.","answer":"Fale com Pete Pirata para ir até a Ilha do Coma. Cave perto da água no topo da montanha ao norte. (A capa de Dungeon teleporta para perto - opção 8 - Ilha do Coma)","x":2321,"y":-707},
 {"type":"cryptic","clue":"Identifique as costas deste irmão superativo. (Ele está muito longe de casa)","answer":"Fale com Hamid.","x":1687,"y":-132},
-{"type":"cryptic","clue":"Ao abandonar esta cidade, fique de olho num conjunto de espinhos que poderia arruinar tapetes nas proximidades: cave cuidadosamente em volta da vegetação.","answer":"Dig by the two cacti.","x":1793,"y":459},
+{"type":"cryptic","clue":"Ao abandonar esta cidade, fique de olho num conjunto de espinhos que poderia arruinar tapetes nas proximidades: cave cuidadosamente em volta da vegetação.","answer":"Cave perto dos dos cactos.","x":1793,"y":459},
 {"type":"cryptic","clue":"'Sapatinho'. Frequentemente encontrado com haste no cogumelo.","answer":"Fale com qualquer treinador gnomo.","x":63,"y":-501},
 {"type":"cryptic","clue":"Parece ter chegado ao fim da linha e ainda está vazio.","answer":"Vasculhe o vagoneze vazio no fim da trilha que vai para leste na Mina dos Anões.","x":1086,"y":-542},
 {"type":"cryptic","clue":"Leia 'Como criar escorpiões'. Por O.W. Thathurt.","answer":"Vasculhe as estantes no andar superior.","x":492,"y":-462},
